@@ -1,0 +1,11 @@
+{
+    "name": "SpacePi",
+    "version": "0.0.1",
+    "description": "Show live video stream from Raspberry Pi connected to a telescope via Raspicam modul and take images and videos.",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "gaze": "latest"
+    },
+    "author": "Florian Kutschera"
+}
